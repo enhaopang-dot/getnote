@@ -78,6 +78,18 @@ MIT. See [LICENSE](LICENSE).
 
 ---
 
+## Using this commercially?
+
+The code is MIT. Use it, modify it, ship it. No permission needed.
+
+That said, commercial use raises things personal use doesn't: deployment, data compliance,
+who owns the problem when it breaks. If you're putting this into a real business, it is worth
+a quick word first. Chances are I have hit the same wall.
+
+WeChat: **enhaopang**, note `GitHub-<repo>`.
+
+---
+
 ## If it saved you time
 
 This project is free and has no sponsorship link. If it solved a real problem for you, a star helps the next person with the same problem find it.
